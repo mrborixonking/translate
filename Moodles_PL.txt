@@ -1,0 +1,15 @@
+Moodles_PL {
+     Moodles_Iodine_Good_lvl4 = "Ochrona jodem",
+     Moodles_Iodine_Good_desc_lvl4 = "Działanie jodu zwiększa odporność na promieniowanie",
+     Moodles_Iodine_Bad_lvl3 = "Ochrona jodem",
+     Moodles_Iodine_Bad_desc_lvl3 = "Efekty jodu prawie minęły",
+
+     Moodles_Hazmat_Good_lvl4 = "Ochrona przed zagrożeniami",
+     Moodles_Hazmat_Good_desc_lvl4 = "Kostium ochronny czyni cię całkowicie odpornym na promieniowanie",
+
+     Moodles_GasMask_Good_lvl4 = "Maska gazowa chroniona",
+     Moodles_GasMask_Good_desc_lvl4 = "Maska gazowa zwiększa odporność na promieniowanie",
+
+     Moodles_LightMask_Good_lvl4 = "Maska chroniona",
+     Moodles_LightMask_Good_desc_lvl4 = "Maska zwiększa odporność na promieniowanie",
+}

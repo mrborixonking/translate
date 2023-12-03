@@ -1,0 +1,9 @@
+Recipes_PL = {
+     Recipe_Insert_Batteries_Into_Geiger_Teller = "Włóż baterie do Geigera",
+     Recipe_Remove_Batteries_From_Geiger_Teller = "Wyjmij baterie",
+     Recipe_Insert_Gas_Mask_Filter = "Włóż filtr maski gazowej",
+     Recipe_Remove_Gas_Mask_Filter = "Usuń filtr maski gazowej",
+     Recipe_Craft_Improvised_Gas_Mask_Filter = "Improwizowany filtr maski przeciwgazowej",
+     Recipe_Repair_Hazmat_Suit = "Napraw kombinezon ochronny",
+     Recipe_Craft_Improvised_Mask = "Wytwórz maskę z tkaniny",
+}

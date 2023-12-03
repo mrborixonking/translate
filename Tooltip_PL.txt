@@ -1,0 +1,12 @@
+Tooltip_PL = {
+Tooltip_item_geigerteller = "Zachowaj czujność na promieniowanie! Załóż pasek (prawy lub lewy) lub użyj gniazda głównego/dodatkowego. Pamiętaj, aby go aktywować i kontroluj żywotność baterii.",
+Tooltip_item_iodine = "5-godzinne pigułki chroniące przed promieniowaniem. Leczą promieniowanie, jeśli są brane co 12 godzin.",
+Tooltip_item_hazmat = "Kombinezon Hazmat zapewnia pełną ochronę przed promieniowaniem. Sprawdź, czy w kombinezonie nie ma żadnych dziur!",
+Tooltip_item_empty_geigerteller = "Bezużyteczny pusty licznik Geigera. Użyj 4 akumulatorów, aby go w pełni naładować!",
+Tooltip_item_airfilter = "Filtr powietrza do maski gazowej. Użyj go, aby napełnić filtr powietrza maski gazowej.",
+Tooltip_item_nukesurivival_guide = "Strategie ochrony przed promieniowaniem i przetrwania"
+Tooltip_item_luckysoda = "Pij i miej więcej szczęścia w desperackich czasach. Zyskaj więcej szczęścia, wyleczając się z promieniowania."
+Tooltip_item_empty_gasmask = "Maska gazowa bez filtra. Włóż filtr, aby zapewnić ochronę przed promieniowaniem."
+Tooltip_item_improised_mask = "Improwizowana maska, która lekko chroni cię przed promieniowaniem."
+Tooltip_item_gasmask = "Maska przeciwgazowa, dobrze chroni przed promieniowaniem."
+}
